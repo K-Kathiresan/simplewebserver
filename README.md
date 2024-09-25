@@ -1,5 +1,7 @@
 # EX01 Developing a Simple Webserver
-## Date:
+### Name:Kathiresan K
+### Reg no:21223110021
+### Date:23.09.2024
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
